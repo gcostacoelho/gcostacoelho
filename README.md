@@ -6,8 +6,8 @@
 ##
 
 <div>
-  <a href="https://github.com/gcostacoelho">
-  <img href="https://github.com/gcostacoelho?tab=repositories" height="180em" src="https://github-readme-stats.vercel.app/api?username=gcostacoelho&show_icons=true&theme=dark&title_color=7FFFD4&border_color=458B74&icon_color=7FFFD4&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/gcostacoelho?tab=repositories">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcostacoelho&show_icons=true&theme=dark&title_color=7FFFD4&border_color=458B74&icon_color=7FFFD4&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcostacoelho&layout=compact&langs_count=7&theme=dark&title_color=7FFFD4&border_color=458B74&icon_color=7FFFD4"/>
 </div>
 
