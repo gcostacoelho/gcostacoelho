@@ -2,7 +2,6 @@
 
 - 🔭 I'm currently working as a front-end developer
 - 🌱 I’m currently learning HTML, CSS, Javascript and React Native
- 
 ##
 
 <div>
