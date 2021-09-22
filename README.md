@@ -22,3 +22,9 @@
 </div>
 
   ##
+<div align="center"><br>
+  <a href="https://www.linkedin.com/in/gustavo~coelho/" target="_blank">
+    <img  src="https://www.linkedin.com/in/gustavo~coelho/" height="30" width="40">
+  </a>
+</div>
+##
