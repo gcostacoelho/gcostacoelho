@@ -24,7 +24,7 @@
   ##
 <div align="center"><br>
   <a href="https://www.linkedin.com/in/gustavo~coelho/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/100/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png"/>
   </a>
 </div>
   
