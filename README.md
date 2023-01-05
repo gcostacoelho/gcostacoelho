@@ -1,7 +1,7 @@
 # Hi I'm Gustavo Coelho
 
 - 👨‍💻️ I work as a Chatbot Developer on [Take Blip](https://www.take.net/en/home/)
-- 🌱 I’m currently learning Python and CSharp
+- 🌱 I’m currently learning JavaScript and CSharp
 
 ***
 
