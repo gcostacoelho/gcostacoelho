@@ -27,7 +27,7 @@
     <a href="mailto:gcostacoelho2003@gmail.com" class="email">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black"/>
     </a>
-    <a href="https://www.linkedin.com/in/gustavo~coelho/" target="_blank" class="linkedIn">
+    <a href="https://www.linkedin.com/in/gcostacoelho/" target="_blank" class="linkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"/>
     </a>
 </div>
