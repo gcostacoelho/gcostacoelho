@@ -31,3 +31,9 @@
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black"/>
     </a>
 </div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+  ![](https://github-profile-trophy.vercel.app/?username=gcostacoelho&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
