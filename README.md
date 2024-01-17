@@ -22,12 +22,6 @@
   <img align="center" alt="Guuh-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-
-  ![](https://github-profile-trophy.vercel.app/?username=gcostacoelho&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</div>
-
 ***
 <div class="contacts" align="center">
     <a href="mailto:gcostacoelho2003@gmail.com" class="email">
