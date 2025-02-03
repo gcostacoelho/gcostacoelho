@@ -1,7 +1,7 @@
 # Hi I'm Gustavo Coelho
 
 - 👨‍💻️ I work as a Chatbot Developer on [Blip](https://www.blip.ai/en/home/)
-- 🌱 I’m currently learning JavaScript and CSharp
+- 🌱 I’m currently learning about the DevOps area
 
 ***
 
