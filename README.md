@@ -1,6 +1,6 @@
 # Hi I'm Gustavo Coelho
 
-- 👨‍💻️ I work as a system analyst
+- 👨‍💻️ I work as a System Analyst
 - 🌱 I’m currently learning about the DevOps area
 
 ***
