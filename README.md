@@ -1,6 +1,6 @@
 # Hi I'm Gustavo Coelho
 
-- 👨‍💻️ I work as a Chatbot Developer on [Blip](https://www.blip.ai/en/home/)
+- 👨‍💻️ I work as a system analyst
 - 🌱 I’m currently learning about the DevOps area
 
 ***
@@ -15,11 +15,10 @@
 
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Guuh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Guuh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Guuh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Guuh-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Guuh-bash" height="30" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Guuh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Guuh-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
+  <img align="center" alt="Guuh-tux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg"/>
 </div>
 
 ***
